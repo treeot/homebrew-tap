@@ -1,6 +1,6 @@
 cask "calendarbar" do
-  version "1.0.11"
-  sha256 "eb87354a3bf88ee84d5631e5faa8d5deb801e6564bb618051b8382aca9997414"
+  version "1.0.12"
+  sha256 "a889ddbf6a89fefdb81c16b3c2a5a8f54cddd1575f3afd6fa6ba7950d2189919"
 
   url "https://github.com/treeot/CalendarBar/releases/download/v#{version}/CalendarBar-v#{version}.dmg"
   name "CalendarBar"
